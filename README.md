@@ -1,10 +1,12 @@
+![GitHub](https://img.shields.io/github/license/vlruiz108/projeto-final-individual?style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/Vanessa22607274?label=Seguir&style=social)
 # projeto-final-individual
-##Projeto em selenium Webdriver - java  e cucumber individual para avaliação.
+### Projeto em selenium Webdriver - java  e cucumber individual para avaliação.
 
 <b>Este projeto foi elaborado por:</b>
 Vanessa Ruiz https://github.com/vlruiz108
 
-###Criar um projeto em selenium Webdriver - java  e cucumber usando Page objects 
+### Criar um projeto em selenium Webdriver - java  e cucumber usando Page objects 
 (precisamos executar o script através da feature)
 
 Passo a passo para o teste automático(Colocar algum verificador do objeto antes 
